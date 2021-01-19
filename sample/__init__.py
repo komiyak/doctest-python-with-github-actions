@@ -10,7 +10,7 @@ def sample(value):
     2
     >>> sample(2)
     4
-    >>> sample(3)
+    >>> sample(4)
     6
 
     """
